@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/46985135">
-</div>
+</p>
 
 <br>
 
