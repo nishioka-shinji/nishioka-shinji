@@ -1,16 +1,21 @@
-## Hi there 👋
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/46985135">
+</div>
 
-<!--
-**nishioka-shinji/nishioka-shinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+# Profile
+**無双**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WEBエンジニアキャリア初期よりRuby/Ruby on Railsを用いたWebアプリケーション開発に従事。現在はSREとして、TerraformやKubernetes(EKS) を使用したインフラ構築・運用や信頼性向上に取り組む。
+
+# Skill
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=ruby,mysql,terraform,amazonwebservices,prometheus,grafana,loki,docker,kubernetes)](https://github.com/syvixor/skills-icons)
+
+# Community
+- AKASHI.rb: 兵庫県明石市周辺在住者のためのエンジニアコミュニティ。初心者大歓迎。毎月第４火曜日に開催。
+  - コンパス: https://akashi-rb.connpass.com/
+  - Discord: https://discord.gg/ByADuJYKnj
+
+# Links
+- X: https://x.com/nishi_okashi
