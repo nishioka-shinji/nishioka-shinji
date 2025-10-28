@@ -19,3 +19,4 @@ WEBエンジニアキャリア初期よりRuby/Ruby on Railsを用いたWebア�
 
 # Links
 - X: https://x.com/nishi_okashi
+- note: https://note.com/nishioka_shinji
